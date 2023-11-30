@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nom": "^0.0.3",
+    "sass": "^1.69.5"
+  },
+  "name": "sass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch ./style/main.scss ./style/style.css "
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
